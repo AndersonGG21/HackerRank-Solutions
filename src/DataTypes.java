@@ -46,6 +46,7 @@ public class DataTypes {
 
         for (int i = 0; i < t; i++) {
 
+            // In the future use a Map
             try {
                 long x = sc.nextLong();
                 System.out.println(x + " can be fitted in:");
