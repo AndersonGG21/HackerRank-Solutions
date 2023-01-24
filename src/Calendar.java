@@ -1,9 +1,10 @@
+// A single line of input containing the space separated month, day and year, respectively, in MM DD YYYY format.
+// Returns string: the day of the week in capital letters
+// Sample Input : 08 05 2015
+// Sample Output : WEDNESDAY
+
 import java.io.*;
-import java.text.DateFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.*;
-import java.util.GregorianCalendar;
+
 
 class Result {
 
